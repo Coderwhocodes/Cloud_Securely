@@ -1,8 +1,10 @@
 
 PLATFORM:
 We will be building up MVP(Minimum Viable Product) using CLI(Command Line Interface) which will be followed by an U.I. development.
+
 DEVELOPMENT RESPONSIBILITY
 Whole team will be contributing for the development of the project at each step forward.
+
 GOALS and SCOPES
 •	Provide a secure environment over cloud for storing data in encrypted manner.
 •	Storing users` data at the AWS S3 Service once encrypted.
