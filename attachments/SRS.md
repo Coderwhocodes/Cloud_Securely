@@ -1,6 +1,4 @@
-# This is a template of Software Requirement Specification
-
-4. Deliverables
+## 4. Deliverables
 
 I’ll deliver the following during the course of development:
     • Feature specification
@@ -9,9 +7,9 @@ I’ll deliver the following during the course of development:
     • Development document
     • Source code
 
-5. Risk Management
+## 5. Risk Management
 
-5.1 Risk Identification
+### 5.1 Risk Identification
 
 Following will be the risk involved in my project:
 
@@ -21,7 +19,7 @@ Following will be the risk involved in my project:
 4. Sometimes a user may require a random access to some part of a file, eg. Records.
 5. Data loss during file tranfer.
 
-5.2 Risk Mitigation
+### 5.2 Risk Mitigation
 
 1. The best way to deal with this risk is that the data is encrypted as well as transmitted over a secure connection.
 2. Encryption is within the range of 128 to 256-bit to ensure that important data is not viewed .
