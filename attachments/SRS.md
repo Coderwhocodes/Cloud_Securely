@@ -19,9 +19,13 @@ It can be used by anyone ranging from a child to an old aged person since everyo
 ### 2.2 Functionality:
 
 ● Users will be able to connect to his or her cloud account using his/her unique id which will be created when they sign up in the application.
+
 ● Their accounts can be accessed remotely.
+
 ● They will be having admin rights to either upload or download their data.
+
 ● They will be able to upload their data on the platform locally first in an encrypted section where their data will be encrypted and will be safely uploaded to the cloud.
+
 ● They will also be able to access their data using the SSH id and passkey which will be provided to them during encryption, which will be decrypted first, and then they will receive their data on the destination.
 
 --------------------------------------------------------------
