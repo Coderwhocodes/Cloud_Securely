@@ -8,15 +8,15 @@ The Main Purpose of this is to develop a software that can locally encrypt data 
 
 ### 1.3 Intended Audience and Reading Suggestions
 
-We Wish To develop a CLI Based Software That can be used by anyone with just a few commands.
+We Wish To develop a CLI Based Software that can be used by anyone with just a few commands.
 
 ## 2. Overview:
 
-It is very Important to secure Data. Currently Major companies are getting hit by cyber attacks that leads to various data leaks on the web. Data is the Most valuable resouce that we have in todays world surpassing even oil which is second now. This Project Aims to develop a Cloud based Encryped data storage platform where users can lodin and easily transfer thier data after encryping it. The data will be kept securely on the cloud and even if something is leaked, the data will be encrypted leading to a mitigation a risk os data theft.
+It is very Important to secure data. These days major companies are often victims of cyber attacks that leads to various data leaks on the web. Data is the most valuable resouce that we have in todays world surpassing even oil which is second now. This project aims to develop a Cloud based encryped data storage platform where users can easily upload data after encryping it. The data will be kept securely on the cloud and even if something is leaked, the data will be encrypted leading to a mitigation a risk of data theft.
 
 ### 2.1 Customer:
 
-It can be used by anyone ranging from a child to an old aged person since everyone wants their data to be stored securely. Most important of all, people having business and jobs need to store their data on a cloud in a secure manner, so storage in encrypted format will be safer.
+It can be used by anyone ranging since everyone wants their data to be stored securely. Most important of all, people having businesses and jobs need to store their data on a cloud in a secure manner, so storage in encrypted format is always a better choice.
 
 ### 2.2 Functionality:
 
@@ -28,7 +28,7 @@ It can be used by anyone ranging from a child to an old aged person since everyo
 
 ## 2.3 Platform:
 
-We will be building up MVP(Minimum Viable Product) using CLI(Command Line Interface) which will be followed by an U.I. development.
+We will be building a MVP (Minimum Viable Product) which will use CLI (Command Line Interface) . Later we plan to upgrade to a better GUI.
 
 ## 2.4 Development Responsibility:
 
