@@ -12,6 +12,22 @@ We Wish To develop a CLI Based Software That can be used by anyone with just a f
 
 It is very Important to secure Data. Currently Major companies are getting hit by cyber attacks that leads to various data leaks on the web. Data is the Most valuable resouce that we have in todays world surpassing even oil which is second now. This Project Aims to develop a Cloud based Encryped data storage platform where users can lodin and easily transfer thier data after encryping it. The data will be kept securely on the cloud and even if something is leaked, the data will be encrypted leading to a mitigation a risk os data theft.
 
+### 2.1 Customer:
+
+It can be used by anyone ranging from a child to an old aged person since everyone wants their data to be stored securely. Most important of all, people having business and jobs need to store their data on a cloud in a secure manner, so storage in encrypted format will be safer.
+
+### 2.2 Functionality:
+
+● Users will be able to connect to his or her cloud account using his/her unique id which will be created when they sign up in the application.
+● Their accounts can be accessed remotely.
+● They will be having admin rights to either upload or download their data.
+● They will be able to upload their data on the platform locally first in an encrypted section where their data will be encrypted and will be safely uploaded to the cloud.
+● They will also be able to access their data using the SSH id and passkey which will be provided to them during encryption, which will be decrypted first, and then they will receive their data on the destination.
+
+--------------------------------------------------------------
+G3
+--------------------------------------------------------------
+
 ## 4. Deliverables
 
 I’ll deliver the following during the course of development:
