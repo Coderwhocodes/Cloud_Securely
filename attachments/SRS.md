@@ -1,3 +1,5 @@
+# Project Plan: Cloud Securely
+
 ## 1. Introduction:
 
 ### 1.1 PURPOSE
@@ -22,20 +24,34 @@ It can be used by anyone ranging from a child to an old aged person since everyo
 - Their accounts can be accessed remotely.
 - They will be having admin rights to either upload or download their data.
 - They will be able to upload their data on the platform locally first in an encrypted section where their data will be encrypted and will be safely uploaded to the cloud.
--They will also be able to access their data using the SSH id and passkey which will be provided to them during encryption, which will be decrypted first, and then they will receive their data on the destination.
+- They will also be able to access their data using the SSH id and passkey which will be provided to them during encryption, which will be decrypted first, and then they will receive their data on the destination.
 
---------------------------------------------------------------
-G3
---------------------------------------------------------------
+## 2.3 Platform:
+
+We will be building up MVP(Minimum Viable Product) using CLI(Command Line Interface) which will be followed by an U.I. development.
+
+## 2.4 Development Responsibility:
+
+Whole team will be contributing for the development of the project at each step forward.
+
+## 3. Goals and Scopes:
+
+-	Provide a secure environment over cloud for storing data in encrypted manner.
+-	Storing users data at the AWS S3 Service once encrypted.
+-	Make the things user friendly for our end users
+-	Providing the end users to have an easy access to their data remotely.
+-	Making it cost efficient as well because there is no such expenditure on hardware storage devices. Cloud is cheaper than physical storage systems on a larger scale.
+-	Reliable performance will be achieved irrespective of the geographical location.
+-	Automatic updates of the software without manual interference.
 
 ## 4. Deliverables
 
 I’ll deliver the following during the course of development:
-    • Feature specification
-    • Product design
-    • Test plan
-    • Development document
-    • Source code
+- Feature specification
+- Product design
+- Test plan
+- Development document
+- Source code
 
 ## 5. Risk Management
 
@@ -56,3 +72,4 @@ Following will be the risk involved in my project:
 - In the communication system, the originator at the source will hold the original text till the receiver acknowledges that the decryption was successfull.
 - There is sequential encryption and decryption.
 - Cloud risk assesment and finding the gaps between perceived security and actual security.
+
